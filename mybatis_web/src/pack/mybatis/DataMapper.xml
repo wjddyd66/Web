@@ -24,4 +24,14 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
  <delete id="deleteData" parameterType="int">
   delete from sangdata where code=#{code}
  </delete>
+ 
+  <!--My Batis Include-->
+  <sql id="my">order by code asc</sql>
+
+ <!-- selectDataAll과 같은 구문 -->
+ <select id="selectDataAll2" resultType="dto">
+  select * from sangdata
+  <include refid="my1"/>
+ </select>
+
 </mapper>
