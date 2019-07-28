@@ -1,2 +1,11 @@
-Web 코드를 모아두는 공간입니다. 모르시거나 궁금한 것이 있으면 wjddyd66@naver.com으로 연락주세요.
-Web Code를 모아두는 곳 입니다. 궁금한 점이 있으면 wjddyd66@naver.com으로 연락주세요.
+### Web Category
+
+1. Suggenst (Suggest)
+2. Servlet (Servlet)
+3. Cookie & Session (Session_Cookie)
+4. JSTL (Jstl)
+5. Forward&Redirect (Forward_Redirect)
+6. MyBatis (mybatis_web)
+
+**각코드에 대한 자세한 내용: <a href=""><https://wjddyd66.github.io/category/Web></a>**  
+연락처: wjddyd66@naver.com  
