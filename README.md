@@ -7,5 +7,5 @@
 5. Forward&Redirect (Forward_Redirect)
 6. MyBatis (mybatis_web)
 
-**각코드에 대한 자세한 내용: <https://wjddyd66.github.io/category/Web>**  
+**각코드에 대한 자세한 내용: <https://wjddyd66.github.io/categories/#web>**  
 연락처: wjddyd66@naver.com  
